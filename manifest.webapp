@@ -1,0 +1,17 @@
+{
+    "version": "0.1",
+    "name": "Choipd's Test App",
+    "description": "App from Titanium",
+    "launch_path": "/index.html",
+    "icons": {
+        "16": "/appicon-16.png",
+        "48": "/appicon-48.png",
+        "128": "/appicon-128.png"
+    },
+    "developer": {
+        "name": "choipd",
+        "url": "http://choipd.wordpress.com"
+    },
+    "installs_allowed_from": ["*"],
+    "default_locale": "en"
+}
